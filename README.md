@@ -6,7 +6,9 @@ I’ve been working with software development since 2010, and I’m interested i
 
 I’ve been playing with computers since my father built an Intel 80486DX2 computer in the early 90s. My first video game console was the Atari 2600.
 
-I’m also the co-host of the [hexdevs podcast](https://www.hexdevs.com/) and I love to talk about the intersection of software development + business + financial freedom.
+I’m co-host of the 🎙️[hexdevs podcast](https://www.hexdevs.com/).
+
+I write about software and business on my blog ☄️[thd.codes](https://www.thd.codes/). I love to talk about the intersection of software development + business + financial freedom.
 
 - 🔭 I’m currently working on my own business -> [hexdevs](https://www.hexdevs.com/).
 - 🌱 I’m currently learning how to help other software developers become more effective.
