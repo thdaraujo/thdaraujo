@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello! I'm Thiago Araujo! 👋
 
-<!--
-**thdaraujo/thdaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer/entrepreneur living in Vancouver, Canada. 🏞️
 
-Here are some ideas to get you started:
+I’ve been working with software development since 2010, and I’m interested in Entrepreneurship, Finance and Business, Ruby and Elixir, Software Development, AI/ML and Podcasting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve been playing with computers since my father built an Intel 80486DX2 computer in the early 90s. My first video game console was the Atari 2600.
+
+I’m also the co-host of the [hexdevs podcast](https://www.hexdevs.com/) and I love to talk about the intersection of software development + business + financial freedom.
+
+- 🔭 I’m currently working on my own business -> [hexdevs](https://www.hexdevs.com/).
+- 🌱 I’m currently learning how to help other software developers become more effective.
+- 🤔 I’m looking for help with entrepreneurship, marketing, and bootstrapping a business.
+- 💬 Ask me about Software Engineering, Podcasting, Ruby, Elixir, and Mentoring.
+- 📫 How to reach me: [@thdaraujo](https://twitter.com/thdaraujo)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My parents were smugglers of computer parts back in the 90s in Brazil (ask me about their story!)
+- 🚲 Hobbies: hiking, cycling, cooking and calligraphy.
