@@ -1,14 +1,13 @@
-### Hello! I'm Thiago Araujo! 👋
+### Hello, I'm Thiago! 👋
+_/chee-AH-go/_
 
 I'm a software engineer/entrepreneur living in Vancouver, Canada. 🏞️
 
-I’ve been working with software development since 2010, and I’m interested in Entrepreneurship, Finance and Business, Ruby and Elixir, Software Development, AI/ML and Podcasting.
+I love Ruby and Elixir, and I like to talk about the intersection of software development + business + financial freedom. 
 
-I’ve been playing with computers since my father built an Intel 80486DX2 computer in the early 90s. My first video game console was the Atari 2600.
+Co-host of the 🎙️[hexdevs podcast](https://www.hexdevs.com/), I write about software and business on my blog ☄️[thd.codes](https://www.thd.codes/).
 
-I’m co-host of the 🎙️[hexdevs podcast](https://www.hexdevs.com/).
-
-I write about software and business on my blog ☄️[thd.codes](https://www.thd.codes/). I love to talk about the intersection of software development + business + financial freedom.
+Previously [@patch.io](https://github.com/patch-technology), [@commit.dev](https://github.com/commitdev/), [@cto.ai](https://github.com/cto-ai), [@predictable-revenue](https://github.com/Carburetor/).
 
 - 🔭 I’m currently working on my own business -> [hexdevs](https://www.hexdevs.com/).
 - 🌱 I’m currently learning how to help other software developers become more effective.
