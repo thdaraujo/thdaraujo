@@ -1,4 +1,4 @@
-### Hello, I'm Thiago (thd)! 👋
+### Hello, I'm Thiago! 👋
 _/chee-AH-go/_
 
 I'm a software engineer/entrepreneur living in Vancouver, Canada. 🏞️
