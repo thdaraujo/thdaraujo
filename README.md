@@ -1,19 +1,20 @@
-### Hello, I'm Thiago! 👋
-_/chee-AH-go/_
+## Hello, I'm Thiago (thd)! 👋
 
-I'm a software engineer/entrepreneur living in Vancouver, Canada. 🏞️
+I’m a software engineer, entrepreneur, and educator living in Vancouver, Canada. 🏞️
 
-I love Ruby and Elixir, and I like to talk about the intersection of software development + business + financial freedom. 
+**I’m on a mission to help developers grow and get better at their software engineering skills** -> [@hexdevs](https://www.hexdevs.com)
 
-Co-host of the 🎙️[hexdevs podcast](https://www.hexdevs.com/), I write about software and business on my blog ☄️[thd.codes](https://www.thd.codes/).
+I ❤️ Ruby and Elixir, and I write about software development on my blog ☄️[thd.codes](https://www.thd.codes).
 
-Previously [@patch.io](https://github.com/patch-technology), [@commit.dev](https://github.com/commitdev/), [@cto.ai](https://github.com/cto-ai), [@predictable-revenue](https://github.com/Carburetor/).
+I co-host the hexdevs podcast 🎙️ with Stefanni Brasil.
+
+Previously  [@patch.io](https://github.com/patch-technology), [@commit.dev](https://github.com/commitdev/), [@cto.ai](https://github.com/cto-ai), [@predictable-revenue](https://github.com/Carburetor/). Currently [@hexdevs](https://github.com/hexdevs).
+
+I have a degree in Computer Science, was pursuing a Master’s in CompSci. I also have done a bit of research in the field of AI.
 
 - 🔭 I’m currently working on my own business -> [hexdevs](https://www.hexdevs.com/).
-- 🌱 I’m currently learning how to help other software developers become more effective.
-- 🤔 I’m looking for help with entrepreneurship, marketing, and bootstrapping a business.
-- 💬 Ask me about Software Engineering, Podcasting, Ruby, Elixir, and Mentoring.
-- 📫 How to reach me: [@thdaraujo](https://twitter.com/thdaraujo)
+- 📫 How to reach me: [@thdaraujo](https://twitter.com/thdaraujo) or e-mail me: hi at thd.codes
 - 😄 Pronouns: he/him
+- 🗨️ How to pronounce my name: /chee-AH-go/
 - ⚡ Fun fact: My parents were smugglers of computer parts back in the 90s in Brazil (ask me about their story!)
-- 🚲 Hobbies: hiking, cycling, cooking and calligraphy.
+- 🚲 Hobbies: photography, hiking, cycling, cooking and calligraphy.
