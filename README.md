@@ -18,3 +18,10 @@ I have a degree in Computer Science, was pursuing a Master’s in CompSci. I als
 - 🗨️ How to pronounce my name: /chee-AH-go/
 - ⚡ Fun fact: My parents were smugglers of computer parts back in the 90s in Brazil (ask me about their story!)
 - 🚲 Hobbies: photography, hiking, cycling, cooking and calligraphy.
+
+**How I work:**
+```mermaid
+flowchart TD
+    A[coffee?] --> |Yes| B[code!];
+    A[coffee?] --> |No| C[no-op];
+```
