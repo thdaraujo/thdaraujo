@@ -4,7 +4,7 @@ I’m a software engineer, entrepreneur, and educator living in Vancouver, Canad
 
 **I’m on a mission to help developers grow and get better at their software engineering skills** -> [@hexdevs](https://www.hexdevs.com)
 
-I ❤️ Ruby and Elixir, and I write about software development on my blog ☄️[thd.codes](https://www.thd.codes).
+I love Ruby and Elixir, and I write about software development on my blog ☄️[thd.codes](https://www.thd.codes).
 
 I co-host the hexdevs podcast 🎙️ with Stefanni Brasil.
 
