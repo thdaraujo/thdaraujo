@@ -4,9 +4,10 @@ I’m a software engineer, entrepreneur, and educator living in Vancouver, Canad
 
 **I’m on a mission to help developers grow and get better at their software engineering skills** -> [@hexdevs](https://www.hexdevs.com)
 
-I love Ruby and Elixir, and I write about software development on my blog ☄️[thd.codes](https://www.thd.codes).
-
-I co-host the hexdevs podcast 🎙️ with Stefanni Brasil.
+- I love Ruby and Elixir
+- I write about software development on my blog ☄️[thd.codes](https://www.thd.codes).
+- I co-host the hexdevs podcast 🎙️ with Stefanni Brasil.
+- I am a core-maintainer of [faker-ruby](https://github.com/faker-ruby/faker) 🎭
 
 Previously  [@patch.io](https://github.com/patch-technology), [@commit.dev](https://github.com/commitdev/), [@cto.ai](https://github.com/cto-ai), [@predictable-revenue](https://github.com/Carburetor/). Currently [@hexdevs](https://github.com/hexdevs).
 
