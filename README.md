@@ -15,7 +15,7 @@ Currently [@jane technologies](https://github.com/janetechinc/) and [@hexdevs](h
 I have a degree in Computer Science, was pursuing a Master’s in CompSci. I also have done a bit of research in the field of AI.
 
 - 🔭 I’m currently working on my own business -> [hexdevs](https://www.hexdevs.com/).
-- 📫 How to reach me: [@thdaraujo](https://twitter.com/thdaraujo) or e-mail me: hi at thd.codes
+- 📫 How to reach me: [@thdaraujo](https://twitter.com/thdaraujo) or e-mail me: thiago at hexdevs dot com
 - 😄 Pronouns: he/him
 - 🗨️ How to pronounce my name: /chee-AH-go/
 - ⚡ Fun fact: My parents were smugglers of computer parts back in the 90s in Brazil (ask me about their story!)
