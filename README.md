@@ -9,7 +9,8 @@ I’m a software engineer, entrepreneur, and educator living in Vancouver, Canad
 - I co-host the hexdevs podcast 🎙️ with Stefanni Brasil.
 - I am a core-maintainer of [faker-ruby](https://github.com/faker-ruby/faker) 🎭
 
-Previously  [@patch.io](https://github.com/patch-technology), [@commit.dev](https://github.com/commitdev/), [@cto.ai](https://github.com/cto-ai), [@predictable-revenue](https://github.com/Carburetor/). Currently [@hexdevs](https://github.com/hexdevs).
+Previously [@patch.io](https://github.com/patch-technology), [@cto.ai](https://github.com/cto-ai).
+Currently [@jane technologies](https://github.com/janetechinc/) and [@hexdevs](https://github.com/hexdevs).
 
 I have a degree in Computer Science, was pursuing a Master’s in CompSci. I also have done a bit of research in the field of AI.
 
