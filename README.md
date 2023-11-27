@@ -1,6 +1,6 @@
-## Hello, I'm Thiago (thd)! 👋
+## Hello, I'm Thiago! 👋
 
-I’m a software engineer, entrepreneur, and educator living in Vancouver, Canada. 🏞️
+I’m a software engineer, entrepreneur, and educator living in Calgary, Canada. 🏞️
 
 **I’m on a mission to help developers grow and get better at their software engineering skills** -> [@hexdevs](https://www.hexdevs.com)
 
@@ -14,7 +14,7 @@ Currently [@jane technologies](https://github.com/janetechinc/) and [@hexdevs](h
 
 I have a degree in Computer Science, was pursuing a Master’s in CompSci. I also have done a bit of research in the field of AI.
 
-- 🔭 I’m currently working on my own business -> [hexdevs](https://www.hexdevs.com/).
+- 🔭 Currently working on [hexdevs](https://www.hexdevs.com/).
 - 📫 How to reach me: [@thdaraujo](https://twitter.com/thdaraujo) or e-mail me: thiago at hexdevs dot com
 - 😄 Pronouns: he/him
 - 🗨️ How to pronounce my name: /chee-AH-go/
@@ -22,8 +22,11 @@ I have a degree in Computer Science, was pursuing a Master’s in CompSci. I als
 - 🚲 Hobbies: photography, hiking, cycling, cooking and calligraphy.
 
 **How I work:**
+
+_I quit drinking coffee - here's an updated flowchart:_
+
 ```mermaid
 flowchart TD
-    A[coffee?] --> |Yes| B[code!];
-    A[coffee?] --> |No| C[no-op];
+    A[tea?] --> |Yes| B[code!];
+    A[tea?] --> |No| C[no-op];
 ```
