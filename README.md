@@ -12,7 +12,7 @@ I’m a software engineer, entrepreneur, and educator living in Calgary, Canada.
 Previously [@patch.io](https://github.com/patch-technology), [@cto.ai](https://github.com/cto-ai).
 Currently [@jane technologies](https://github.com/janetechinc/) and [@hexdevs](https://github.com/hexdevs).
 
-I have a degree in Computer Science, was pursuing a Master’s in CompSci. I also have done a bit of research in the field of AI.
+I have a degree in Computer Science, was pursuing a Master’s in CompSci. I also have done a bit of research in Knowledge Representation and Reasoning (AI).
 
 - 🔭 Currently working on [hexdevs](https://www.hexdevs.com/).
 - 📫 How to reach me: [@thd.codes](https://bsky.app/profile/thd.codes) or e-mail me: thiago at hexdevs dot com
