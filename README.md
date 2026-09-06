@@ -6,7 +6,7 @@ I’m a software engineer, entrepreneur, and educator living in Calgary, Canada.
 
 - I 🧡 Ruby and Elixir
 - I write about software development on [hexdevs.com](https://www.hexdevs.com).
-- I co-host the [hexdevs podcast 🎙️](https://podcasts.apple.com/ca/podcast/hexdevs/id1475721754?l=en) with Stefanni Brasil.
+- I co-host the [hexdevs podcast 🎙️](https://www.youtube.com/playlist?list=PLRkMy1N_7_IjZOHKat097rN16oe1pAUyQ) with Stefanni Brasil.
 - I am a core-maintainer of [faker-ruby](https://github.com/faker-ruby/faker) 🎭
 
 Previously [@patch.io](https://github.com/patch-technology), [@cto.ai](https://github.com/cto-ai).
